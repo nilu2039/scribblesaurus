@@ -1,28 +1,29 @@
-# Create T3 App
+# T3-Stack Canvas Drawing App
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a simple canvas drawing app made with the T3 Stack, which includes TypeScript, and NextJs. The app allows you to draw on a canvas using your mouse or touch input.
 
-## What's next? How do I make an app with this?
+## Getting Started
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+To run the app locally, follow these steps:
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+1.  Clone this repository to your local machine.
+2.  Install the dependencies by running `npm install` or `yarn` or `pnpm install` in the project directory.
+3.  Start the development server by running `npm dev` or `yarn dev` or `pnpm dev`.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+## Usage
 
-## Learn More
+Once the app is running, you can use your mouse or touch input to draw on the canvas. You can also change the color of the brush by clicking on the color palette.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+## Contributing
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+Contributions are welcome! To contribute to this project, please follow these steps:
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+1.  Fork this repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and commit them with descriptive commit messages.
+4.  Push your changes to your forked repository.
+5.  Create a pull request to merge your changes back into this repository.
 
-## How do I deploy this?
+## License
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+This app is released under the MIT License. See the [LICENSE]
