@@ -27,4 +27,4 @@ Contributions are welcome! To contribute to this project, please follow these st
 ## License
 
 This app is released under the MIT License. See the [LICENSE]
-(https://github.com/nilu2039/canvas-drawing-app/blob/main/LICENSE) file for details.
+(https://github.com/nilu2039/scribblesaurus/blob/main/README.md) file for details.
