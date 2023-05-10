@@ -4,7 +4,7 @@ import { useDraw } from "~/hooks/useDraw";
 import { type DrawLineProps, drawLine } from "~/utils/drawLine";
 import { io } from "socket.io-client";
 
-const socket = io("ws://localhost:4000");
+const socket = io("https://dolphin-app-qnf3f.ondigitalocean.app");
 
 const Draw = () => {
   const { canvasRef, onMouseDown, clear } = useDraw(createLine);
